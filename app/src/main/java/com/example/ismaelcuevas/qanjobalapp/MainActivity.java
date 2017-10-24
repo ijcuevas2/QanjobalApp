@@ -9,6 +9,9 @@ import android.support.v7.widget.RecyclerView;
 import android.view.MenuItem;
 import android.widget.TextView;
 
+import java.io.IOException;
+import java.io.InputStream;
+
 public class MainActivity extends AppCompatActivity {
 
     private TextView mTextMessage;
@@ -34,8 +37,28 @@ public class MainActivity extends AppCompatActivity {
             }
             return false;
         }
-
     };
+
+    // Source: https://xjaphx.wordpress.com/2011/10/02/store-and-use-files-in-assets/
+    public void loadDatafromAsset(){
+        try{
+            // get input stream for text
+            InputStream is = getAssets().open("Dictionary.txt");
+            int size = is.available();
+
+            byte[] buffer = new byte[size];
+            // get data from buffer
+            is.read(buffer);
+            is.close();
+            String bufferData = new String(buffer);
+            System.out.println("bufferData: " + bufferData +
+                               " bufferData.length()" + bufferData.length());
+        }
+        catch(IOException e){
+            e.printStackTrace();
+        }
+    }
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -47,6 +70,7 @@ public class MainActivity extends AppCompatActivity {
         mTextMessage = (TextView) findViewById(R.id.message);
         BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
+        loadDatafromAsset();
 
 
         // use this setting to improve performance if you know that changes
