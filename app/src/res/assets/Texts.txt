@@ -1,0 +1,2083 @@
+\_sh v3.0  621  Text
+
+\id beamer001
+\ref
+\tx malin lekanoq     qatan  luin
+\mb malin lekan - oq  qatan  luin
+\ge Mary  stand - IRR beside Peter
+\ps N     V     - AFF PREP   N
+
+\ft Mary is next to Peter. (Mary is standing next to peter.)
+
+\id beamer002
+\ref
+\tx malin lekanoq     yintaq luin
+\mb malin lekan - oq  yintaq luin
+\ge Mary  stand - IRR behind Peter
+\ps N     V     - AFF PREP   N
+
+\ft Mary is behind Peter. (Mary is standing behind Peter.)
+
+\id beamer003
+\ref
+\tx malin lekanoq     sataq       luin
+\mb malin lekan - oq  sataq       luin
+\ge Mary  stand - IRR in.front.of Peter
+\ps N     V     - AFF PREP        N
+
+\ft Mary is in front of Peter.
+
+\id beamer004
+\ref
+\tx luin  miman tel
+\mb luin  miman tel
+\ge Peter big   height
+\ps N     ADJ   N
+
+\ft Peter is tall.
+
+\id beamer005
+\ref
+\tx luin  yalix       tel
+\mb luin  yalix       tel
+\ge Peter small/short height
+\ps N     ADJ         N
+
+\ft Peter is short.
+
+\id beamer006
+\ref
+\tx luin  miman tel    yib'an  malin
+\mb luin  miman tel    yib'an  malin
+\ge Peter big   height on/over Mary
+\ps N     ADJ   N      PREP    N
+
+\ft Peter is taller than Mary.
+
+\id beamer007
+\ref
+\tx luin  yalix       tel    yintaq malin
+\mb luin  yalix       tel    yintaq malin
+\ge Peter small/short height behind Mary
+\ps N     ADJ         N      PREP   N
+
+\ft Peter is shorter than Mary.
+
+\id beamer008
+\ref
+\tx luin  ayb'aqchil
+\mb luin  ayb'aqchil
+\ge Peter overweight
+\ps N     ADJ
+
+\ft Peter is overweight.
+
+\id beamer009
+\ref
+\tx luin  tolb'aq'ech
+\mb luin  tolb'aq'ech
+\ge Peter fat
+\ps N     ADJ
+
+\ft Peter is fat.
+
+\id beamer010
+\ref
+\tx luin  b'aqixtaq
+\mb luin  b'aqixtaq
+\ge Peter skinny
+\ps N     ADJ
+
+\ft Peter is skinny.
+
+\id beamer011
+\ref
+\tx ana'       luin  atu   ay    b'ay   ak'exan
+\mb a   -na'   luin  atu   ay    b'ay   a        - k'exan
+\ge TOP -house Peter there exist toward 2.SG.ERG - left
+\ps AFF -N     N     ADV   V     PREP   AFF      - N
+
+\ft Luin's house is to your left.
+
+\id beamer012
+\ref
+\tx ana'        luin  atu   ay    b'ay   awatx'
+\mb a   - na'   luin  atu   ay    b'ay   a        - watx'
+\ge TOP - house Peter there exist toward 2.SG.ERG - right
+\ps AFF - N     N     ADV   V     PREP   AFF      - N
+
+\ft Luin's house is to your right.
+
+\id beamer013
+\ref
+\tx ana'        luin  atu   ay    yaiti
+\mb a   - na'   luin  atu   ay    yaiti
+\ge TOP - house Peter there exist south
+\ps AFF - N     N     ADV   V     N
+
+\ft Luin's house is to the south.
+
+\id beamer014
+\ref
+\tx ana'        luin  atu   ay    yajti
+\mb a   - na'   luin  atu   ay    yajti
+\ge TOP - house Peter there exist north
+\ps AFF - N     N     ADV   V     N
+
+\ft Luin's house is to the north.
+
+\id beamer015
+\ref
+\tx ana'        luin  atu   ay    b'ay   ch'ajolku
+\mb a   - na'   luin  atu   ay    b'ay   ch'ajolku
+\ge TOP - house Peter there exist toward east
+\ps AFF - N     N     ADV   V     PREP   N
+
+\ft Luin's house is to the east.
+
+\id beamer016
+\ref
+\tx ana'        luin  atu   ay    b'aychi tojk'u
+\mb ana'        luin  atu   ay    b'aychi tojk'u
+\ge TOP - house Peter there exist toward  west
+\ps AFF - N     N     ADV   V     PREP    N
+
+\ft Luin's house is to the west.
+
+\id beamer017
+\ref
+\tx ayin       lanan inkuyon              q'anhob'al
+\mb ay  - in   lanan in   - kuy   - on    q'anhob'al
+\ge TOP - 1.SG PROG  1.SG - study - TRANS Q'anhob'al
+\ps AFF - AFF  AFF   AFF  - V     - AFF   N
+
+\ft I am studying Q'anhob'al.
+
+\id beamer018
+\ref
+\tx ix     lanan kuyonix                q'anhob'al
+\mb ix     lanan kuy   - on    - ix     q'anhob'al
+\ge 3.SG.F PROG  study - TRANS - 3.SG.F Q'anhob'al
+\ps PRO    AFF   V     - AFF   - AFF    N
+
+\ft She is studying Q'anhob'al.
+
+\id beamer019
+\ref
+\tx ach      lanan akuyon                   q'anhob'al
+\mb ach      lanan a        - kuy   - on    q'anhob'al
+\ge 2.SG.ABS PROG  2.SG.ERG - study - TRANS Q'anhob'al
+\ps AFF      AFF   AFF      - V     - AFF   N
+
+\ft You (sg.) are studying Q'anhob'al.
+
+\id beamer020
+\ref
+\tx e        masanil  lanan ekuyon                   q'anhob'al
+\mb e        *masanil lanan e        - kuy   - on    q'anhob'al
+\ge 2.PL.ERG ***      PROG  2.PL.ERG - study - TRANS Q'anhob'al
+\ps AFF      ***      AFF   AFF      - V     - AFF   N
+
+\ft You (pl.) are studying Q'anhob'al.
+
+\id beamer021
+\ref
+\tx on   lanan kokuyonon                      q'anhob'al
+\mb on   lanan ko       - kuy   - on   - on   q'anhob'al
+\ge 1.PL PROG  1.PL.ERG - study - TRANS- 1.PL Q'anhob'al
+\ps PRO  AFF   AFF      - V     - AFF  - AFF  N
+
+\ft We are studying q'anhobal.
+
+\id beamer022
+\ref
+\tx naq    lanan kuyonnaq               q'anhob'al
+\mb naq    lanan kuy   - on    - naq    q'anhob'al
+\ge 1.SG.M PROG  study - TRANS - 1.SG.M Q'anhob'al
+\ps PRO    AFF   V     - AFF   - AFF    N
+
+\ft He is studying Q'anhob'al.
+
+\id beamer023
+\ref
+\tx eb'  tol chi    kuyeb'       q'anhob'al
+\mb eb'  tol chi    kuy   - eb'  q'anhob'al
+\ge 3.PL ??  IMPERF study - 3.PL Q'anhob'al
+\ps PRO  ??  AFF    V     - AFF  N
+
+\ft They are studying Q'anhob'al.
+
+\id beamer024
+\ref
+\tx eb'  lanan kuyoneb'             q'anhob'al
+\mb eb'  lanan kuy   - on    - eb'  q'anhob'al
+\ge 3.PL PROG  study - TRANS - 3.PL Q'anhob'al
+\ps PRO  AFF   V     - AFF   - AFF  N
+
+\ft They are studying Q'anhob'al.
+
+\id beamer025
+\ref
+\tx aeb'ixtu                             chi    kuyeb'       q'anhob'al
+\mb a   - eb'  - ix     - tu             chi    kuy   - eb'  q'anhob'al
+\ge TOP - 3.PL - 3.SG.F - DEM.that/those IMPERF study - 3.PL Q'anhob'al
+\ps AFF - PRO  - PRO    - AFF            AFF    V     - AFF  N
+
+\ft Those woman (over there) are studying Q'anhob'al.
+
+\id beamer026
+\ref
+\tx aeb'naqwinaqtu                                     chi    kuyeb'naq             q'anhob'al
+\mb a   - eb'  - naq    - wi - naq    - tu             chi    kuy   - eb'  - naq    q'anhob'al
+\ge TOP - 3.PL - 1.SG.M - ?? - 1.SG.M - DEM.that/those IMPERF study - 3.PL - 1.SG.M Q'anhob'al
+\ps AFF - PRO  - PRO    - ?? - PRO    - AFF            AFF    V     - AFF  - AFF    N
+
+\ft Those men (over there) are studying Q'anhob'al.
+
+\id beamer027
+\ref
+\tx luin  tol lekan ajoq
+\mb luin  tol lekan ajoq
+\ge Peter ??  stand up
+\ps N     ??  V     ADV
+
+\ft Peter is standing up.
+
+\id beamer028
+\ref
+\tx luin  chotan ayoq
+\mb luin  chotan ayoq
+\ge Peter sit    down
+\ps N     V      ADV
+
+\ft Peter is sitting down.
+
+\id beamer029
+\ref
+\tx malin telan ayoq
+\mb malin telan ayoq
+\ge Mary  lay   down
+\ps N     V     ADV
+
+\ft Mary is lying down.
+
+\id beamer030
+\ref
+\tx malin telan ayoq sat tx'at
+\mb malin telan ayoq sat tx'at
+\ge Mary  lay   down on  bed
+\ps N     V     ADV  AFF N
+
+\ft Mary is lying down on the bed.
+
+\id beamer031
+\ref
+\tx luin  xulaitoq          yuj  kaq'e pakil  a'ej
+\mb luin  xu   - lai  - toq yuj  kaq'e pakil  a'ej
+\ge Peter blow - PASS - *** by   wind  across water
+\ps N     V    - AFF  - *** PREP N     PREP   N
+
+\ft Peter is sailing across the ocean -- The wind is blowing Peter across the water.
+
+\id beamer032
+\ref
+\tx luin  tol chi    achinwi yula
+\mb luin  tol chi    achinwi yula
+\ge Peter ??  IMPERF swim    river
+\ps N     ??  AFF    V       N
+
+\ft Peter is swimming across the river.
+
+\id beamer033
+\ref
+\tx luin  achinwi yula  ewi
+\mb luin  achinwi yula  ewi
+\ge Peter swim    river yesterday
+\ps N     V       N     ADV
+
+\ft Peter swam in the river yesterday.
+
+\id beamer034
+\ref
+\tx luin  chi    achinwi yekal
+\mb luin  chi    achinwi yekal
+\ge Peter IMPERF swim    tomorrow
+\ps N     AFF    V       ADV
+
+\ft Peter will swim tomorrow.
+
+\id beamer035
+\ref
+\tx malin xi   b'et b'eyoq     xolte'
+\mb malin xi   b'et b'ey - oq  xol      - te'
+\ge Mary  PERF go   walk - IRR in/among - tree
+\ps N     AFF  V    V    - AFF PREP     - N
+
+\ft Mary hiked in the mountains (lit: in/among the trees).
+
+\id beamer036
+\ref
+\tx malin xi   b'et b'eyoq     xolaq    te'  ewi
+\mb malin xi   b'et b'ey - oq  xolaq    te'  ewi
+\ge Mary  PERF go   walk - IRR in/among tree yesterday
+\ps N     AFF  V    V    - AFF PREP     N    ADV
+
+\ft Mary hiked in the mountains yesterday.
+
+\id beamer037
+\ref
+\tx malin chi    toj b'ey xolaq    te'  yekal
+\mb malin chi    toj b'ey xolaq    te'  yekal
+\ge Mary  IMPERF go  walk in/among tree tomorrow
+\ps N     AFF    V   V    PREP     N    ADV
+
+\ft Mary will hike in the mountains tomorrow.
+
+\id beamer038
+\ref
+\tx malin oq  toj b'ey xolaq    te'
+\mb malin oq  toj b'ey xolaq    te'
+\ge Mary  IRR go  walk in/among tree
+\ps N     AFF V   V    PREP     N
+
+\ft Mary is walking to the mountains (and isn't there yet).
+
+\id beamer039
+\ref
+\tx malin tol chi    jai  xolaq    te'
+\mb malin tol chi    jai  xolaq    te'
+\ge Mary  ??  IMPERF come in/among tree
+\ps N     ??  AFF    V    PREP     N
+
+\ft Mary is coming back from the mountains.
+
+\id beamer040
+\ref
+\tx malin chi    aj    chonte'
+\mb malin chi    aj    chonte'
+\ge Mary  IMPERF climb tree
+\ps N     AFF    V     N
+
+\ft Mary is climbing a tree.
+
+\id beamer041
+\ref
+\tx malin aj    chonte' ewi
+\mb malin aj    chonte' ewi
+\ge Mary  climb tree    yesterday
+\ps N     V     N       ADV
+
+\ft Mary climbed a tree yesterday.
+
+\id beamer042
+\ref
+\tx malin chi    aj    chonte' yekal
+\mb malin chi    aj    chonte' yekal
+\ge Mary  IMPERF climb tree    tomorrow
+\ps N     AFF    V     N       ADV
+
+\ft Mary will climb a tree tomorrow.
+
+\id beamer043
+\ref
+\tx malin xi   tel  qoji
+\mb malin xi   tel  qoji
+\ge Mary  PERF fall down
+\ps N     AFF  V    ADV
+
+\ft Malin fell down.
+
+\id beamer044
+\ref
+\tx sik  mi     yina
+\mb sik  mi     yina
+\ge cold INTERR outside
+\ps ADJ  ??     ADV
+
+\ft It's cold outside.
+
+\id beamer045
+\ref
+\tx ch'ainab' yina
+\mb ch'ainab' yina
+\ge rain      outside
+\ps V         ADV
+
+\ft It's raining outside.
+
+\id beamer046
+\ref
+\tx ayex           tol ch     ekuy             q'anhob'al
+\mb ay  - ex       tol ch     e        - kuy   q'anhob'al
+\ge TOP - 2.PL.ABS ??  IMPERF 2.PL.ERG - study Q'anhob'al
+\ps AFF - AFF      ??  AFF    AFF      - V     N
+
+\ft PENDING
+
+\id beamer047
+\ref
+\tx on      jun  ti
+\mb on      jun  ti
+\ge avacado a(n) DEM.this/these
+\ps N       DET  AFF
+
+\ft That's an avacado.
+
+\id beamer048
+\ref
+\tx x    inlo       jun  on
+\mb x    in   - lo  jun  on
+\ge PERF 1.SG - eat a(n) avacado
+\ps AFF  AFF  - V   DET  N
+
+\ft I ate an avacado.
+
+\id beamer049
+\ref
+\tx x    alo            jun  on
+\mb x    a        - lo  jun  on
+\ge PERF 2.SG.ERG - eat a(n) avacado
+\ps AFF  AFF      - V   DET  N
+
+\ft You(sg.) ate an avacado.
+
+\id beamer050
+\ref
+\tx xi   kolo           aytoqon      jun  on      ewi
+\mb xi   ko       - lo  aytoq - on   jun  on      ewi
+\ge PERF 1.PL.ERG - eat down  - 1.PL a(n) avacado yesterday
+\ps AFF  AFF      - V   ADV   - AFF  DET  N       ADV
+
+\ft We ate an avacado yesterday.
+
+\id beamer051
+\ref
+\tx anaq         lonaq        on      ewi
+\mb a   - naq    lo  - naq    on      ewi
+\ge TOP - 1.SG.M eat - 1.SG.M avacado yesterday
+\ps AFF - PRO    V   - AFF    N       ADV
+
+\ft He ate an avacado yesterday.
+
+\id beamer052
+\ref
+\tx x    inchilai           yuj  jun  us
+\mb x    in   - chi  - lai  yuj  jun  us
+\ge PERF 1.SG - bite - PASS by   a(n) mosquito
+\ps AFF  AFF  - V    - AFF  PREP DET  N
+
+\ft I was bitten by a mosquito.
+
+\id beamer053
+\ref
+\tx x    inchi       jun  us
+\mb x    in   - chi  jun  us
+\ge PERF 1.SG - bite a(n) mosquito
+\ps AFF  AFF  - V    DET  N
+
+\ft I bit a mosquito.
+
+\id beamer054
+\ref
+\tx x    achchilai              yuj  us
+\mb x    ach      - chi  - lai  yuj  us
+\ge PERF 2.SG.ABS - bite - PASS by   mosquito
+\ps AFF  AFF      - V    - AFF  PREP N
+
+\ft You were bitten by a mosquito.
+
+\id beamer055
+\ref
+\tx x    onchilaion                    yuj  us
+\mb x    on       - chi  - lai  - on   yuj  us
+\ge PERF 1.PL.ABS - bite - PASS - 1.PL by   mosquito
+\ps AFF  AFF      - V    - AFF  - AFF  PREP N
+
+\ft We were bitten by a mosquito.
+
+\id beamer056
+\ref
+\tx ach      x    amaq'           kamoq      jun  us
+\mb ach      x    a        - maq' kam  - oq  jun  us
+\ge 2.SG.ABS PERF 2.SG.ERG - make dead - IRR a(n) mosquito
+\ps AFF      AFF  AFF      - V    ADJ  - AFF DET  N
+
+\ft You killed the mosquito.
+
+\id beamer057
+\ref
+\tx xi   wil             yin         ix
+\mb xi   w    - il       yin         ix
+\ge PERF 1.SG - see/look around/with 3.SG.F
+\ps AFF  PRO  - V        PREP        PRO
+
+\ft I met her.
+
+\id beamer058
+\ref
+\tx antil xi   yil            yin         lucin
+\mb antil xi   y   - il       yin         lucin
+\ge Antil PERF 3   - see/look around/with Lucin
+\ps N     AFF  AFF - V        PREP        N
+
+\ft Antil met Lucin.
+
+\id beamer059
+\ref
+\tx x    intoj      lanijnaq
+\mb x    in   - toj lanij - naq
+\ge PERF 1.SG - go  pay   - 1.SG.M
+\ps AFF  AFF  - V   V     - AFF
+
+\ft I payed him.
+
+\id beamer060
+\ref
+\tx x    inchi       aytoq koj
+\mb x    in   - chi  aytoq koj
+\ge PERF 1.SG - bite down  tiger
+\ps AFF  AFF  - V    ADV   N
+
+\ft I ate the tiger.
+
+\id beamer061
+\ref
+\tx x    inchilai           yuj  jun  koj
+\mb x    in   - chi  - lai  yuj  jun  koj
+\ge PERF 1.SG - bite - PASS by   a(n) tiger
+\ps AFF  AFF  - V    - AFF  PREP DET  N
+
+\ft I was eaten by the tiger.
+
+\id beamer062
+\ref
+\tx x    achchilai              yuj  jun  koj
+\mb x    ach      - chi  - lai  yuj  jun  koj
+\ge PERF 2.SG.ABS - bite - PASS by   a(n) tiger
+\ps AFF  AFF      - V    - AFF  PREP DET  N
+
+\ft You(sg.) were eaten by a tiger.
+
+\id beamer063
+\ref
+\tx x    achi          koj
+\mb x    a      - chi  koj
+\ge PERF 2.SG.ER- bite tiger
+\ps AFF  AFF    - V    N
+
+\ft You(sg.) ate the tiger.
+
+\id beamer064
+\ref
+\tx aix          x    inmaq'on            kamoq
+\mb a   - ix     x    in   - maq' - on    kam  - oq
+\ge TOP - 3.SG.F PERF 1.SG - make - TRANS dead - IRR
+\ps AFF - PRO    AFF  AFF  - V    - AFF   ADJ  - AFF
+
+\ft She killed me.
+
+\id beamer065
+\ref
+\tx ayin       x    inmaq'      kam  ix
+\mb ay  - in   x    in   - maq' kam  ix
+\ge TOP - 1.SG PERF 1.SG - make dead 3.SG.F
+\ps AFF - AFF  AFF  AFF  - V    ADJ  PRO
+
+\ft I killed her.
+
+\id beamer066
+\ref
+\tx xi   kam  no     in   mis
+\mb xi   kam  no     in   mis
+\ge PERF dead animal 1.SG cat
+\ps AFF  ADJ  CLASS  AFF  N
+
+\ft My cat is dead.
+
+\id beamer067
+\ref
+\tx luin  ch'achni       yula
+\mb luin  ch'    - achni yula
+\ge Peter IMPERF - swim  river
+\ps N     AFF    - V     N
+
+\ft Luin swam in the river.
+
+\id beamer068
+\ref
+\tx luin  xi   q'axponej a      a'ej
+\mb luin  xi   q'axponej a      a'ej
+\ge Peter PERF cross     across water
+\ps N     AFF  V         PREP   N
+
+\ft Luin swam across the river (water).
+
+\id beamer069
+\ref
+\tx luin  xi   toj telnaq        yula
+\mb luin  xi   toj tel  - naq    yula
+\ge Peter PERF go  fall - 1.SG.M river
+\ps N     AFF  V   V    - AFF    N
+
+\ft Luin fell into the water.
+
+\id beamer070
+\ref
+\tx luin  xi   ek'eltojnaq          yib'an  a      a'ej
+\mb luin  xi   ek'el - toj - naq    yib'an  a      a'ej
+\ge Peter PERF pass  - go  - 1.SG.M on/over across water
+\ps N     AFF  V     - V   - AFF    PREP    PREP   N
+
+\ft Luin jumped over the river.
+
+\id beamer071
+\ref
+\tx xi   ek  jun  tz'ikin satkan
+\mb xi   ek  jun  tz'ikin satkan
+\ge PERF fly a(n) bird    sky
+\ps AFF  V   DET  N       N
+
+\ft The bird is in the sky.
+
+\id beamer072
+\ref
+\tx xi   ek'eljupupoq jun  tz'ikin satkan
+\mb xi   ek'eljupupoq jun  tz'ikin satkan
+\ge PERF fly.through  a(n) bird    sky
+\ps AFF  V            DET  N       N
+
+\ft The bird flew in the sky.
+
+\id beamer073
+\ref
+\tx xi   ek'eljupupoq jun  tz'ikin xol  asun
+\mb xi   ek'eljupupoq jun  tz'ikin xol  asun
+\ge PERF fly.through  a(n) bird    in   cloud
+\ps AFF  V            DET  N       PREP N
+
+\ft The bird flew through the cloud.
+
+\id beamer074
+\ref
+\tx maj ek'el no     tz'ikin xol  asun
+\mb maj ek'el no     tz'ikin xol  asun
+\ge NEG pass  animal bird    in   cloud
+\ps ADV V     CLASS  N       PREP N
+
+\ft Asked for: The bird flew into the cloud (but never made it out).
+\ft Think I got: The bird didn't/couldn't pass through the cloud.
+
+\id beamer075
+\ref
+\tx wal jun  tz'ikin xi   eltej       jupnaq        xol      asun
+
+\ft The bird flew out of the cloud.
+
+\id beamer076
+\ref
+\tx luin  kajan       xol  te'
+\mb luin  kajan       xol  te'
+\ge Peter live(dwell) in   tree
+\ps N     V           PREP N
+
+\ft Luin lives in the mountains.
+
+\id beamer077
+\ref
+\tx luin  kajan       chon  witz
+\mb luin  kajan       chon  witz
+\ge Peter live(dwell) up.on hill
+\ps N     V           PREP  N
+
+\ft Luin lives on the (top of the) hill.
+
+\id beamer078
+\ref
+\tx luin  kajan       yul  witz
+\mb luin  kajan       yul  witz
+\ge Peter live(dwell) in   hill
+\ps N     V           PREP N
+
+\ft Luin lives in the mountain (hill).
+
+\id beamer079
+\ref
+\tx luin  xi   ek'eltoqnaq       yib'an      witz
+\mb luin  xi   ek'eltoq - naq    yib'an      witz
+\ge Peter PERF jump     - 1.SG.M over/on.top hill
+\ps N     AFF  V        - AFF    PREP        N
+
+\ft Luin jumped over the hill.
+
+\id beamer080
+\ref
+\tx luin  xi   ek'eltoqnaq       yib'an      telaq
+\mb luin  xi   ek'eltoq - naq    yib'an      telaq
+\ge Peter perf jump     - 1.SG.M over/on.top mountain
+\ps N     AFF  V        - AFF    PREP        N
+
+\ft Luin jumped over the mountain.
+
+\id beamer081
+\ref
+\tx luin  kajan       tx'oklomtx'och
+\mb luin  kajan       tx'oklomtx'och
+\ge Peter live(dwell) desert
+\ps N     V           N
+
+\ft Luin lives in the desert.
+
+\id beamer082
+\ref
+\tx luin  xi   q'axponej tx'oklomtx'och
+\mb luin  xi   q'axponej tx'oklomtx'och
+\ge Peter PERF cross     desert
+\ps N     AFF  V         N
+
+\ft Luin crossed the desert.
+
+\id beamer083
+\ref
+\tx luin  xi   toj yul  olan
+\mb luin  xi   toj yul  olan
+\ge Peter PERF go  in   tunnel
+\ps N     AFF  V   PREP N
+
+\ft Luin went into the tunnel.
+
+\id beamer084
+\ref
+\tx luin  may     toj yul  olan
+\mb luin  may     toj yul  olan
+\ge Peter already go  in   tunnel
+\ps N     ADV     V   PREP N
+
+\ft Luin already went into the tunnel.
+
+\id beamer085
+\ref
+\tx luin  mayal   ek'el yul  olan
+\mb luin  mayal   ek'el yul  olan
+\ge Peter already pass  in   tunnel
+\ps N     ADV     V     PREP N
+
+\ft Luin already passed the tunnel.
+
+\id beamer086
+\ref
+\tx luin  xi   toji
+\mb luin  xi   toj - i
+\ge Peter PERF go  - _
+\ps N     AFF  V   - AFF
+
+\ft Luin went.
+
+\id beamer087
+\ref
+\tx luin  chi    jaiyi
+\mb luin  chi    jai  - yi
+\ge Peter IMPERF come - _
+\ps N     AFF    V    - AFF
+
+\ft Luin is coming back.
+
+\id beamer088
+\ref
+\tx luin  ayoqtoj    yul  na'
+\mb luin  ayoq - toj yul  na'
+\ge Peter down - go  in   house
+\ps N     ADV  - V   PREP N
+
+\ft Luin is inside the house.
+
+\id beamer089
+\ref
+\tx luin  xi   oktoq yul  na'
+\mb luin  xi   oktoq yul  na'
+\ge Peter perf enter in   house
+\ps N     AFF  V     PREP N
+
+\ft Luin entered the house.
+
+\id beamer090
+\ref
+\tx luin  ay    ajtoq yib'an  yatut
+\mb luin  ay    ajtoq yib'an  yatut
+\ge Peter exist up    on/over roof
+\ps N     V     ADV   PREP    N
+
+\ft Luin is (standing) on the house.
+
+\id beamer091
+\ref
+\tx luin  xi   b'et ajtoq yib'an  yatut
+\mb luin  xi   b'et ajtoq yib'an  yatut
+\ge Peter PERF go   up    on/over roof
+\ps N     AFF  V    ADV   PREP    N
+
+\ft Luin went up on top of the house.
+
+\id beamer092
+\ref
+\tx luin  xi   b'eti
+\mb luin  xi   b'et - i
+\ge Peter PERF go   - _
+\ps N     AFF  V    - AFF
+
+\ft Luin went (and came back).
+
+\id beamer093
+\ref
+\tx luin  xi   b'et aytoq
+\mb luin  xi   b'et aytoq
+\ge Peter PERF go   down
+\ps N     AFF  V    ADV
+
+\ft Luin went down (and came back).
+
+\id beamer094
+\ref
+\tx luin  xi   b'et ajtoq
+\mb luin  xi   b'et ajtoq
+\ge Peter PERF go   up
+\ps N     AFF  V    ADV
+
+\ft Luin went up (and came back).
+
+\id beamer095
+\ref
+\tx luin  ay    aytoq yelan
+\mb luin  ay    aytoq yelan
+\ge Peter exist down  on.the.bottom
+\ps N     V     ADV   N
+
+\ft Luin went down to the bottom (and is still there).
+
+\id beamer096
+\ref
+\tx luin  xi   toj yajti
+\mb luin  xi   toj yajti
+\ge Peter PERF go  up
+\ps N     AFF  V   ADV
+
+\ft Luin went up (and is still there).
+
+\id beamer097
+\ref
+\tx luin  xi   toj yaiti
+\mb luin  xi   toj yaiti
+\ge Peter PERF go  down
+\ps N     AFF  V   ADV
+
+\ft Luin went down (and is still there).
+
+\id beamer098
+\ref
+\tx yax  satkan
+\mb yax  satkan
+\ge blue sky
+\ps ADJ  N
+
+\ft The sky is blue.
+
+\id beamer099
+\ref
+\tx taqin xaqte'
+\mb taqin xaqte'
+\ge dry   leaves
+\ps ADJ   N
+
+\ft The leaves are dry.
+
+\id beamer100
+\ref
+\tx q'an   xaqte'
+\mb q'an   xaqte'
+\ge yellow leaves
+\ps ADJ    N
+
+\ft The leaves are yellow.
+
+\id beamer101
+\ref
+\tx saq   asun
+\mb saq   asun
+\ge white cloud
+\ps ADJ   N
+
+\ft The cloud is white.
+
+\id beamer102
+\ref
+\tx k'eq  q'ab'te'
+\mb k'eq  q'ab'te
+\ge black branches
+\ps ADJ   N
+
+\ft The branches are black.
+
+\id beamer103
+\ref
+\tx k'eq  q'ojalte'
+\mb k'eq  q'ojalte'
+\ge black tree.trunk
+\ps ADJ   N
+
+\ft The tree trunk is black.
+
+\id beamer104
+\ref
+\tx saqmalinaq ti    no     paramuch
+\mb saqmalinaq ti    no     paramuch
+\ge grey       mouth animal pigeon
+\ps ADJ        N     CLASS  N
+
+\ft The pigeon's beak is grey.
+
+\id beamer105
+\ref
+\tx b'e  xolaqte'
+\mb b'e  xolaq    - te'
+\ge road in/among - tree
+\ps N    PREP     - N
+
+\ft The road is in the forest.
+
+\id beamer106
+\ref
+\tx xaqte' sat ch'och
+\mb xaqte' sat ch'och
+\ge leaves on  ground
+\ps N      AFF N
+
+\ft The leaves are on the ground.
+
+\id beamer107
+\ref
+\tx no     paramuch yib'an q'ab'te'
+\mb no     paramuch yib'an q'ab'te'
+\ge animal pigeon   on     branch
+\ps CLASS  N        PREP   N
+
+\ft The pigeon is on the branch.
+
+\id beamer108
+\ref
+\tx xil     no     paramuch yaxmalinaq
+\mb xil     no     paramuch yaxmalinaq
+\ge feather animal pigeon   lt.green
+\ps N       CLASS  N        ADJ
+
+\ft The pigeon's feathers are light green.
+
+\id beamer109
+\ref
+\tx kaqxulinaq yaqan no     paramuch
+\mb kaqxulinaq yaqan no     paramuch
+\ge lt.red     foot  animal pigeon
+\ps ADJ        N     CLASS  N
+
+\ft The pigeon's feet are light red.
+
+\id beamer110
+\ref
+\tx moyan  satkan
+\mb moyan  satkan
+\ge cloudy sky
+\ps ADJ    N
+
+\ft The sky is cloudy.
+
+\id beamer111
+\ref
+\tx mayayi satkan
+\mb mayayi satkan
+\ge clear  sky
+\ps ADJ    N
+
+\ft The sky is clear.
+
+\id beamer112
+\ref
+\tx kausat         jun  mexati
+\mb kau  - sat     jun  mexa  - ti
+\ge hard - surface a(n) table - DEM.this/these
+\ps ADJ  - N       DET  N     - AFF
+
+\ft The table is hard.
+
+\id beamer113
+\ref
+\tx kau  dulse
+\mb kau  dulse
+\ge hard candy
+\ps ADJ  N
+
+\ft The candy is hard.
+
+\id beamer114
+\ref
+\tx t'eb'eb'i dulse
+\mb t'eb'eb'i dulse
+\ge soft      candy
+\ps ADJ       N
+
+\ft The candy is soft.
+
+\id beamer115
+\ref
+\tx t'oyoyi jun  netal  a'ej
+\mb t'oyoyi jun  netal  a'ej
+\ge soft    a(n) bottle water
+\ps ADJ     DET  N      N
+
+\ft The water bottle is soft.
+
+\id beamer116
+\ref
+\tx chak'ak'i sat
+\mb chak'ak'i sat
+\ge rough     surface
+\ps ADJ       N
+
+\ft The surface is rough.
+
+\id beamer117
+\ref
+\tx nululi sat
+\mb nululi sat
+\ge smooth surface
+\ps ADJ    N
+
+\ft The surface is smooth.
+
+\id beamer118
+\ref
+\tx saq   jun  tzan pichilej
+\mb saq   jun  tzan pichilej
+\ge white a(n) few  clothes
+\ps ADJ   DET  DET  N
+
+\ft These few clothes are clean.
+
+\id beamer119
+\ref
+\tx tz'il jun  tzan pichilejti
+\mb tz'il jun  tzan pichilej - ti
+\ge dirty a(n) few  clothes  - DEM.this/these
+\ps ADJ   DET  DET  N        - AFF
+
+\ft These few clothes are dirty.
+
+\id beamer120
+\ref
+\tx ayip   jun  q'ajati
+\mb ayip   jun  q'ajati
+\ge strong a(n) bridge
+\ps ADJ    DET  N
+
+\ft This bridge is strong.
+
+\id beamer121
+\ref
+\tx chib'il jun  q'ajati
+\mb chib'il jun  q'ajati
+\ge weak    a(n) bridge
+\ps ADJ     DET  N
+
+\ft This bridge is weak.
+
+\id beamer122
+\ref
+\tx aluin       ayip
+\mb a   - luin  ayip
+\ge TOP - Peter strong.3s
+\ps AFF - N     ADJ
+
+\ft Luin is strong.
+
+\id beamer123
+\ref
+\tx ayip      jun  animatu
+\mb ayip      jun  anima  - tu
+\ge strong.3s a(n) person - DEM.that/those
+\ps ADJ       DET  N      - AFF
+
+\ft That person is strong.
+
+\id beamer124
+\ref
+\tx jun  t'eb'eb'i dulse sumumixa'al
+\mb jun  t'eb'eb'i dulse sumumixa'al
+\ge a(n) soft      candy delicious
+\ps DET  ADJ       N     ADJ
+
+\ft The hard candy is delicious.
+
+\id beamer125
+\ref
+\tx jun  kau  dulse sumumixa'al
+\mb jun  kau  dulse sumumixa'al
+\ge a(n) hard candy delicious
+\ps DET  ADJ  N     ADJ
+
+\ft The hard candy is delicious.
+
+\id beamer126
+\ref
+\tx jun  chak'ak'i sat     kaqyin
+\mb jun  chak'ak'i sat     kaqyin
+\ge a(n) rough     surface red
+\ps DET  ADJ       N       ADJ
+
+\ft The rough surface is red.
+
+\id beamer127
+\ref
+\tx jun  nululi sat     yax
+\mb jun  nululi sat     yax
+\ge a(n) smooth surface blue
+\ps DET  ADJ    N       ADJ
+
+\ft The smooth surface is blue.
+
+\id beamer128
+\ref
+\tx an     saq   pichilej watx'      yili
+\mb an     saq   pichilej watx'      y   - il       - i
+\ge cotton clean clothes  right/good 3   - see/look - _
+\ps N      ADJ   N        ADJ        AFF - V        - AFF
+
+\ft The clean clothes are stylish (pretty?)
+
+\id beamer129
+\ref
+\tx watx'      yili                 jun  pichilejti                pero tol tz'il
+\mb watx'      y   - il       - i   jun  pichilej - ti             pero tol tz'il
+\ge right/good 3   - see/look - _   a(n) clothes  - DEM.this/these but  ??  dirty
+\ps ADJ        AFF - V        - AFF DET  N        - AFF            CONJ ??  ADJ
+
+\ft These clothes are very stylish but dirty.
+
+\id beamer130
+\ref
+\tx al    simiento
+\mb al    simiento
+\ge heavy brick
+\ps ADJ   N
+
+\ft The brick is heavy.
+
+\id beamer131
+\ref
+\tx seb'  xil     no     tz'ikin
+\mb seb'  xil     no     tz'ikin
+\ge light feather animal bird
+\ps ADJ   N       CLASS  N
+
+\ft The feather is light (in weight).
+
+\id beamer132
+\ref
+\tx q'eqq'olinaq yula   na'
+\mb q'eqq'olinaq yula   na'
+\ge dark         inside house
+\ps ADJ          PREP   N
+
+\ft It's dark inside the house.
+
+\id beamer133
+\ref
+\tx saq    yula   na'
+\mb saq    yula   na'
+\ge bright inside house
+\ps ADJ    PREP   N
+
+\ft It's light inside the house.
+
+\id beamer134
+\ref
+\tx jopopi  yula   na'
+\mb jopopi  yula   na'
+\ge shining inside house
+\ps ADJ     PREP   N
+
+\ft It's shining in the house.
+
+\id beamer135
+\ref
+\tx wal tojoq     ch'enkaro
+\mb wal toj - oq  ch'enkaro
+\ge ??  go  - IRR car
+\ps ADV V   - AFF N
+
+\ft The car is going fast.
+
+\id beamer136
+\ref
+\tx kok'ol jip kotoji
+\ft Let's go fast.
+
+\id beamer137
+\ref
+\tx k'ojankulal toj ch'enkaro
+\mb k'ojankulal toj ch'enkaro
+\ge slow        go  car
+\ps ADJ         V   N
+
+\ft The car is going slow.
+
+\id beamer138
+\ref
+\tx el    jun  nawux
+\mb el    jun  nawux
+\ge sharp a(n) knife
+\ps ADJ   DET  N
+
+\ft The knife is sharp.
+
+\id beamer139
+\ref
+\tx k'am yelal ch'en nawux
+\mb k'am yelal ch'en nawux
+\ge neg  sharp metal knife
+\ps NEG  ADJ   N     N
+
+\ft The knife (metal) is not sharp.
+
+\id beamer140
+\ref
+\tx k'am ye    ch'en nawux
+\mb k'am ye    ch'en nawux
+\ge neg  tooth metal knife
+\ps NEG  N     N     N
+
+\ft The knife isn't sharp enough (the knife metal has no teeth).
+
+\id beamer141
+\ref
+\tx chi    b'ayb'on jun  animatu
+\mb chi    b'ayb'on jun  anima  - tu
+\ge IMPERF weak     a(n) person - DEM.that/those
+\ps AFF    ADJ      DET  N      - AFF
+
+\ft That person is weak.
+
+\id beamer142
+\ref
+\tx ch'enkaro ayman b'eyi      a         ch'en xi   ioni
+\mb ch'enkaro ayman b'ey - i   a         ch'en xi   ion - i
+\ge car       fast  walk - _   made.from metal PERF win - _
+\ps N         ADJ   V    - AFF PREP      N     AFF  V   - AFF
+
+\ft The fast car won the race.
+
+\id beamer143
+\ref
+\tx ch'enkaro k'am chiuj    b'eyi      maqyi
+\mb ch'enkaro k'am chiuj    b'ey - i   maqyi
+\ge car       neg  not.fast walk - _   lose
+\ps N         NEG  ADJ      V    - AFF V
+
+\ft The slow car lost the race. (The car wasn't fast. It walked (went slow). It lost.)
+
+\id beamer144
+\ref
+\tx subojtaq owal
+\mb subojtaq owal
+\ge easy     problem
+\ps ADJ      N
+
+\ft The problem is easy.
+
+\id beamer145
+\ref
+\tx x    inwat'nej      ayoq jun  subojtaq owal
+\mb x    in   - wat'nej ayoq jun  subojtaq owal
+\ge PERF 1.SG - solve   down a(n) easy     problem
+\ps AFF  AFF  - V       ADV  DET  ADJ      N
+
+\ft I solved the easy problem
+
+\id beamer146
+\ref
+\tx tx'oqyel  jun  owalti
+\mb tx'oqyel  jun  owal    - ti
+\ge difficult a(n) problem - DEM.this/these
+\ps ADJ       DET  N       - AFF
+
+\ft This problem looks difficult. (This problem is difficult.)
+
+\id beamer147
+\ref
+\tx x    inwat'nej      ay    jun  tx'oqyel  owalil
+\mb x    in   - wat'nej ay    jun  tx'oqyel  owal    - il
+\ge PERF 1.SG - solve   exist a(n) difficult problem - see/look
+\ps AFF  AFF  - V       V     DET  ADJ       N       - V
+
+\ft I solved the difficult problem.
+
+\id beamer148
+\ref
+\tx karo yataq       yili
+\mb karo yataq       y   - il       - i
+\ge car  complicated 3   - see/look - _
+\ps N    ADJ         AFF - V        - AFF
+
+\ft Cars look complicated.
+
+\id beamer149
+\ref
+\tx najat    yich a'
+\mb najat    yich a'
+\ge far/long down water
+\ps ADJ      ADJ  N
+
+\ft The water is deep.
+
+\id beamer150
+\ref
+\tx yalix       yich a'
+\mb yalix       yich a'
+\ge small/short down water
+\ps ADJ         ADJ  N
+
+\ft The water is shallow.
+
+\id beamer151
+\ref
+\tx tx'ijan jun  animatu
+\mb tx'ijan jun  anima  - tu
+\ge smart   a(n) person - DEM.that/those
+\ps ADJ     DET  N      - AFF
+
+\ft That person is smart.
+
+\id beamer152
+\ref
+\tx suk    jun  animatu
+\mb suk    jun  anima  - tu
+\ge stupid a(n) person - DEM.that/those
+\ps ADJ    DET  N      - AFF
+
+\ft That person is stupid. (not mean)
+
+\id beamer153
+\ref
+\tx xi   wil             jun  pelikula watx'taq   yili
+\mb xi   w    - il       jun  pelikula watx'taq   y   - il       - i
+\ge PERF 1.SG - see/look a(n) movie    right/good 3   - see/look - _
+\ps AFF  PRO  - V        DET  N        ADJ        AFF - V        - AFF
+
+\ft The movie I saw was good/interesting.
+
+\id beamer154
+\ref
+\tx xi   wil             jun  pelikula yoptaq yili
+\mb xi   w    - il       jun  pelikula yoptaq y   - il       - i
+\ge PERF 1.SG - see/look a(n) movie    bad    3   - see/look - _
+\ps AFF  PRO  - V        DET  N        ADJ    AFF - V        - AFF
+
+\ft The movie I saw was bad.
+
+\id beamer155
+\ref
+\tx xi   wil             jun  pelikula isahtaq yili
+\mb xi   w    - il       jun  pelikula isahtaq y   - il       - i
+\ge PERF 1.SG - see/look a(n) movie    boring  3   - see/look - _
+\ps AFF  PRO  - V        DET  N        ADJ     AFF - V        - AFF
+
+\ft The movie I saw was boring.
+
+\id beamer156
+\ref
+\tx yob'al        unin
+\mb yob'al        unin
+\ge badly.behaved child
+\ps ADJ           N
+
+\ft The child is bad. y+obal ????
+
+\id beamer157
+\ref
+\tx wal watx'      iloq           yunin       ix
+\mb wal watx'      il       - oq  y   - unin  ix
+\ge ??  right/good see/look - IRR 3   - child 3.SG.F
+\ps ADV ADJ        V        - AFF AFF - N     PRO
+
+\ft She has a good kid.
+
+\id beamer158
+\ref
+\tx oq  intoj      kuyoj  yekal
+\mb oq  in   - toj kuyoj  yekal
+\ge IRR 1.SG - go  school tomorrow
+\ps AFF AFF  - V   N      ADV
+
+\ft I will go to school tomorrow.
+
+\id beamer159
+\ref
+\tx xa   wilen                 yekal
+\mb xa   w    - il       - en  yekal
+\ge temp 1.SG - see/look - ??  tomorrow
+\ps ??   PRO  - V        - AFF ADV
+
+\ft I will see you tomorrow.
+
+\id beamer160
+\ref
+\tx ch     achwila
+\mb ch     ach      - w    - il       - a
+\ge IMPERF 2.SG.ABS - 1.SG - see/look - 2.SG.ERG
+\ps AFF    AFF      - PRO  - V        - AFF
+
+\ft I see you.
+
+\id beamer161
+\ref
+\tx chi    wilnaq
+\mb chi    w    - il       - naq
+\ge IMPERF 1.SG - see/look - 1.SG.M
+\ps AFF    PRO  - V        - AFF
+
+\ft I see him.
+
+\id beamer162
+\ref
+\tx ch     inyilnaq
+\mb ch     in   - y   - il       - naq
+\ge IMPERF 1.SG - 3   - see/look - 1.SG.M
+\ps AFF    AFF  - AFF - V        - AFF
+
+\ft He sees me.
+
+\id beamer163
+\ref
+\tx lanan intz'ib'in      inkarta
+\mb lanan in   - tz'ib'in in   - karta
+\ge PROG  1.SG - write    1.SG - letter
+\ps AFF   AFF  - V        AFF  - N
+
+\ft I am writing a letter.
+
+\id beamer164
+\ref
+\tx lanan waq'on              wanej
+\mb lanan w    - aq'  - on    w    - anej
+\ge PROG  1.SG - give - TRANS 1.SG - run
+\ps AFF   PRO  - V    - AFF   PRO  - V
+
+\ft I am running
+
+\id beamer165
+\ref
+\tx lanan aq'on        anej
+\mb lanan aq'  - on    anej
+\ge PROG  give - TRANS run
+\ps AFF   V    - AFF   V
+
+\ft You are running.
+
+\id beamer166
+\ref
+\tx lanan yaq'onnaq                   yanej
+\mb lanan y   - aq'  - on    - naq    y   - anej
+\ge PROG  3   - give - TRANS - 1.SG.M 3   - run
+\ps AFF   AFF - V    - AFF   - AFF    AFF - V
+
+\ft He is running.
+
+\id beamer167
+\ref
+\tx lanan jaq'on              janejon
+\mb lanan j    - aq'  - on    j    - anej - on
+\ge PROG  1.PL - give - TRANS 1.PL - run  - 1.PL
+\ps AFF   AFF  - V    - AFF   AFF  - V    - AFF
+
+\ft We are running.
+
+\id beamer168
+\ref
+\tx lanan eyaq'on             eyanej
+\mb lanan ey   - aq'  - on    ey   - anej
+\ge PROG  2.PL - give - TRANS 2.PL - run
+\ps AFF   AFF  - V    - AFF   AFF  - V
+
+\ft You(pl) are running.
+
+\id beamer169
+\ref
+\tx lanan yaq'oneb'                 yanej
+\mb lanan y   - aq'  - on    - eb'  y   - anej
+\ge PROG  3   - give - TRANS - 3.PL 3   - run
+\ps AFF   AFF - V    - AFF   - AFF  AFF - V
+
+\ft They are running.
+
+\id beamer170
+\ref
+\tx lanan inb'eyi
+\mb lanan in   - b'ey - i
+\ge PROG  1.SG - walk - _
+\ps AFF   AFF  - V    - AFF
+
+\ft I am walking.
+
+\id beamer171
+\ref
+\tx lanan ab'eyi
+\mb lanan a        - b'ey - i
+\ge PROG  2.SG.ERG - walk - _
+\ps AFF   AFF      - V    - AFF
+
+\ft You are walking.
+
+\id beamer172
+\ref
+\tx lanan b'eynaq
+\mb lanan b'ey - naq
+\ge PROG  walk - 1.SG.M
+\ps AFF   V    - PRO
+
+\ft He is walking.
+
+\id beamer173
+\ref
+\tx lanan kob'eyon
+\mb lanan ko       - b'ey - on
+\ge PROG  1.PL.ERG - walk - 1.PL
+\ps AFF   AFF      - V    - PRO
+
+\ft We are walking.
+
+\id beamer174
+\ref
+\tx lanan eb'eyi
+\mb lanan e        - b'ey - i
+\ge PROG  2.PL.ERG - walk - _
+\ps AFF   AFF      - V    - AFF
+
+\ft You(pl.) are walking.
+
+\id beamer175
+\ref
+\tx lanan b'eyeb'
+\mb lanan b'ey - eb'
+\ge PROG  walk - 3.PL
+\ps AFF   V    - AFF
+
+\ft They are walking.
+
+\id beamer176
+\ref
+\tx lanan yuqtennaq             ix
+\mb lanan y    - uqten - naq    ix
+\ge PROG  3.SG - chase - 1.SG.M 3.SG.F
+\ps AFF   PRO  - V     - AFF    PRO
+
+\ft He is chasing her.
+
+\id beamer177
+\ref
+\tx lanan wuqten       ix
+\mb lanan w    - uqten ix
+\ge PROG  1.SG - chase 3.SG.F
+\ps AFF   PRO  - V     PRO
+
+\ft I am chasing her.
+
+\id beamer178
+\ref
+\tx lanan oqten ix
+\mb lanan oqten ix
+\ge PROG  chase 3.SG.F
+\ps AFF   V     PRO
+
+\ft You are chasing her.
+
+\id beamer179
+\ref
+\tx lanan juqtenon            ix
+\mb lanan j    - uqten - on   ix
+\ge PROG  1.PL - chase - 1.PL 3.SG.F
+\ps AFF   AFF  - V     - AFF  PRO
+
+\ft We are chasing her.
+
+\id beamer180
+\ref
+\tx lanan eyuqten      ix
+\mb lanan ey   - uqten ix
+\ge PROG  2.PL - chase 3.SG.F
+\ps AFF   AFF  - V     PRO
+
+\ft You(pl.) are chasing her.
+
+\id beamer181
+\ref
+\tx lanan yuqteneb'          ix
+\mb lanan y   - uqten - eb'  ix
+\ge PROG  3   - chase - 3.PL 3.SG.F
+\ps AFF   AFF - V     - AFF  PRO
+
+\ft They are chasing her.
+
+\id beamer182
+\ref
+\tx chi    wochej       ix
+\mb chi    w    - ochej ix
+\ge IMPERF 1.SG - like  3.SG.F
+\ps AFF    PRO  - V     PRO
+
+\ft I like her.
+
+\id beamer183
+\ref
+\tx chi    ochej ix
+\mb chi    ochej ix
+\ge IMPERF like  3.SG.F
+\ps AFF    V     PRO
+
+\ft You like her.
+
+\id beamer184
+\ref
+\tx chi    yochejnaq            ix
+\mb chi    y   - ochej - naq    ix
+\ge IMPERF 3   - like  - 1.SG.M 3.SG.F
+\ps AFF    AFF - V     - AFF    PRO
+
+\ft He likes her.
+
+\id beamer185
+\ref
+\tx chi    jochejon            ix
+\mb chi    j    - ochej - on   ix
+\ge IMPERF 1.PL - like  - 1.PL 3.SG.F
+\ps AFF    AFF  - V     - AFF  PRO
+
+\ft We like her.
+
+\id beamer186
+\ref
+\tx ch     eyochej      ix
+\mb ch     ey   - ochej ix
+\ge IMPERF 2.PL - like  3.SG.F
+\ps AFF    AFF  - V     PRO
+
+\ft You(pl.) like her.
+
+\id beamer187
+\ref
+\tx chi    yochejeb'          ex
+\mb chi    y   - ochej - eb'  ex
+\ge IMPERF 3   - like  - 3.PL 2.PL
+\ps AFF    AFF - V     - AFF  AFF
+
+\ft They like her.
+
+\id beamer189
+\ref
+\tx tol ch     inkununi
+\mb tol ch     in   - kununi
+\ge ??  IMPERF 1.SG - crawl
+\ps ??  AFF    AFF  - V
+
+\ft I am crawling.
+
+\id beamer190
+\ref
+\tx tol ch     achkununi
+\mb tol ch     ach      - kununi
+\ge ??  IMPERF 2.SG.ABS - crawl
+\ps ??  AFF    AFF      - V
+
+\ft You are crawling.
+
+\id beamer191
+\ref
+\tx tol chi    kununinaq
+\mb tol chi    kununi - naq
+\ge ??  IMPERF crawl  - 1.SG.M
+\ps ??  AFF    V      - AFF
+
+\ft He is crawling.
+
+\id beamer192
+\ref
+\tx tol ch     onkununion
+\mb tol ch     on       - kununi - on
+\ge ??  IMPERF 1.PL.ABS - crawl  - 1.PL
+\ps ??  AFF    AFF      - V      - AFF
+
+\ft We are crawling.
+
+\id beamer193
+\ref
+\tx tol ch     exkununi
+\mb tol ch     ex       - kununi
+\ge ??  IMPERF 2.PL.ABS - crawl
+\ps ??  AFF    AFF      - V
+
+\ft You(pl.) are crawling.
+
+\id beamer194
+\ref
+\tx tol chi    kununieb'
+\mb tol chi    kununi - eb'
+\ge ??  IMPERF crawl  - 3.PL
+\ps ??  AFF    V      - AFF
+
+\ft They are crawling.
+
+\id beamer195
+\ref
+\tx tol ch     inek'jupupoq
+\mb tol ch     in   - ek'jupupoq
+\ge ??  IMPERF 1.SG - fly.through
+\ps ??  AFF    AFF  - V
+
+\ft I am flying.
+
+\id beamer196
+\ref
+\tx tol ch     achek'jupupoq
+\mb tol ch     ach      - ek'jupupoq
+\ge ??  IMPERF 2.SG.ABS - fly.through
+\ps ??  AFF    AFF      - V
+
+\ft You are flying.
+
+\id beamer197
+\ref
+\tx tol chi    ek'jupupoqnaq
+\mb tol chi    ek'jupupoq  - naq
+\ge ??  IMPERF fly.through - 1.SG.M
+\ps ??  AFF    V           - AFF
+
+\ft He is flying.
+
+\id beamer198
+\ref
+\tx tol ch     - onek'jupupoqon
+\mb tol ch     - on       - ek'jupupoq  - on
+\ge ??  imperf - 1.PL.ABS - fly.through - 1.PL
+\ps ??  AFF    - AFF      - V           - AFF
+
+\ft We are flying.
+
+\id beamer199
+\ref
+\tx tol ch     exek'jupupoq
+\mb tol ch     ex       - ek'jupupoq
+\ge ??  IMPERF 2.PL.ABS - fly.through
+\ps ??  AFF    AFF      - V
+
+\ft You(pl.) are flying.
+
+\id beamer200
+\ref
+\tx tol chi    ek'jupupoqeb'
+\mb tol chi    ek'jupupoq  - eb'
+\ge ??  IMPERF fly.through - 3.PL
+\ps ??  AFF    V           - AFF
+
+\ft They are flying.
+
+\id beamer201
+\ref
+\tx lanan wek'jupupoq
+\mb lanan w    - ek'jupupoq
+\ge PROG  1.SG - fly.through
+\ps AFF   PRO  - V
+
+\ft I am flying.
+
+\id beamer202
+\ref
+\tx lanan ek'jupupoq
+\mb lanan ek'jupupoq
+\ge PROG  fly.through
+\ps AFF   V
+
+\ft You are flying.
+
+\id beamer203
+\ref
+\tx lanan yek'jupupoqnaq
+\mb lanan y   - ek'jupupoq  - naq
+\ge PROG  3   - fly.through - 1.SG.M
+\ps AFF   AFF - V           - AFF
+
+\ft He is flying.
+
+\id beamer204
+\ref
+\tx lanan jek'jupupoqon
+\mb lanan j    - ek'jupupoq  - on
+\ge PROG  1.PL - fly.through - 1.PL
+\ps AFF   AFF  - V           - AFF
+
+\ft We are flying.
+
+\id beamer205
+\ref
+\tx lanan eyek'jupupoq
+\mb lanan ey   - ek'jupupoq
+\ge PROG  2.PL - fly.through
+\ps AFF   AFF  - V
+
+\ft You(pl.) are flying.
+
+\id beamer206
+\ref
+\tx lanan yek'jupupoqeb'
+\mb lanan y   - ek'jupupoq  - eb'
+\ge PROG  3   - fly.through - 3.PL
+\ps AFF   AFF - V           - AFF
+
+\ft They are flying.
+
+\id beamer207
+\ref
+\tx xi   b'il wal jun  tz'ib'al
+\mb xi   b'il wal jun  tz'ib'al
+\ge PERF move ??  a(n) pen
+\ps AFF  V    ADV DET  N
+
+\ft The pen moved (by itself).
+
+\id beamer208
+\ref
+\tx x    achb'ili
+\mb x    ach      - b'il - i
+\ge PERF 2.SG.ABS - move - _
+\ps AFF  AFF      - V    - AFF
+
+\ft You moved.
+
+\id beamer209
+\ref
+\tx maj b'il jun  tz'ib'al
+\mb maj b'il jun  tz'ib'al
+\ge NEG move a(n) pen
+\ps ADV V    DET  N
+
+\ft The pen did not move.
+
+\id beamer210
+\ref
+\tx maj achb'iloq
+\mb maj ach      - b'il - oq
+\ge NEG 2.SG.ABS - move - IRR
+\ps ADV AFF      - V    - AFF
+
+\ft You did not move.
+
+\id beamer211
+\ref
+\tx ayin       xi   wa'         b'il jun  tz'ib'al
+\mb ay  - in   xi   w    - a'   b'il jun  tz'ib'al
+\ge TOP - 1.SG PERF 1.SG - give move a(n) pen
+\ps AFF - AFF  AFF  PRO  - V    V    DET  N
+
+\ft I moved the pen.
+
+\id beamer212
+\ref
+\tx ayach          x    a'   b'il jun  tz'ib'al
+\mb ay  - ach      x    a'   b'il jun  tz'ib'al
+\ge TOP - 2.SG.ABS PERF give move a(n) pen
+\ps AFF - AFF      AFF  V    V    DET  N
+
+\ft You moved the pen.
+
+\id beamer213
+\ref
+\tx k'am chije wa'on               b'il jun  tz'ib'al
+\mb k'am chije w    - a'   - on    b'il jun  tz'ib'al
+\ge neg  can   1.SG - give - TRANS move a(n) pen
+\ps NEG  V     PRO  - V    - AFF   V    DET  N
+
+\ft I can't move the pen.
+
+\id beamer214
+\ref
+\tx chije wa'on               b'iloq
+\mb chije w    - a'   - on    b'il - oq
+\ge can   1.SG - give - TRANS move - IRR
+\ps V     PRO  - V    - AFF   V    - AFF
+
+\ft I can move the pen.
+
+\id beamer215
+\ref
+\tx k'am chije waq'on              b'il ch'en
+\mb k'am chije w    - aq'  - on    b'il ch'en
+\ge neg  can   1.SG - give - TRANS move rock
+\ps NEG  V     PRO  - V    - AFF   V    N
+
+\ft I cannot move the rock.
+
+\id beamer216
+\ref
+\tx ayach           k'am chije aq'on        b'il ch'en
+\mb ay   - ach      k'am chije aq'  - on    b'il ch'en
+\ge TOP  - 2.SG.ABS neg  can   give - TRANS move rock
+\ps Part - AFF      NEG  V     V    - AFF   V    N
+
+\ft You cannot move the rock.
+
+\id beamer217
+\ref
+\tx chije aq'on        b'il ch'en
+\mb chije aq'  - on    b'il ch'en
+\ge can   give - TRANS move rock
+\ps V     V    - AFF   V    N
+
+\ft You can move the rock.
+
+\id beamer218
+\ref
+\tx mata   maj a'   b'il ch'en
+\mb mata   maj a'   b'il ch'en
+\ge should NEG give move rock
+\ps V      ADV V    V    N
+
+\ft You shouldn't move the rock.
+
+\id beamer219
+\ref
+\tx mata   maj wa'         b'il ch'en
+\mb mata   maj w    - a'   b'il ch'en
+\ge should NEG 1.SG - give move rock
+\ps V      ADV PRO  - V    V    N
+
+\ft I shouldn't move the rock.
+
+\id beamer220
+\ref
+\tx mata   xi   a'   b'il ch'en
+\mb mata   xi   a'   b'il ch'en
+\ge should PERF give move rock
+\ps V      AFF  V    V    N
+
+\ft You should move the rock.
+
+\id beamer221
+\ref
+\tx mata   xi   wa'         b'il ch'en
+\mb mata   xi   w    - a'   b'il ch'en
+\ge should PERF 1.SG - give move rock
+\ps V      AFF  PRO  - V    V    N
+
+\ft I should move the rock.
+
+\id beamer222
+\ref
+\tx mata   xi   ya'        b'ilnaq       ch'en
+\mb mata   xi   y   - a'   b'il - naq    ch'en
+\ge should PERF 3   - give move - 1.SG.M rock
+\ps V      AFF  AFF - V    V    - AFF    N
+
+\ft He should move the rock.
+
+\id beamer223
+\ref
+\tx waq'        b'iloq
+\mb w    - aq'  b'il - oq
+\ge 1.SG - give move - IRR
+\ps PRO  - V    V    - AFF
+
+\ft I can move it.
+
+\id beamer224
+\ref
+\tx k'am ch     ab'iloq
+\mb k'am ch     a        - b'il - oq
+\ge neg  IMPERF 2.SG.ERG - move - IRR
+\ps NEG  AFF    AFF      - V    - AFF
+
+\ft Don't move it.
+
+\id beamer225
+\ref
+\tx k'am ch     alo
+\mb k'am ch     a        - lo
+\ge neg  IMPERF 2.SG.ERG - eat
+\ps NEG  AFF    AFF      - V
+
+\ft Don't eat it.
+
+\id beamer226
+\ref
+\tx k'am chije alooni
+\mb k'am chije a        - lo  - on    - i
+\ge neg  can   2.SG.ERG - eat - TRANS - _
+\ps NEG  V     AFF      - V   - AFF   - AFF
+
+\ft You cannot eat it.
+
+\id beamer227
+\ref
+\tx k'am chije inlooni
+\mb k'am chije in   - lo  - on    - i
+\ge neg  can   1.SG - eat - TRANS - _
+\ps NEG  V     AFF  - V   - AFF   - AFF
+
+\ft I can't eat it.
+
+\id beamer228
+\ref
+\tx mata   maj alo
+\mb mata   maj a        - lo
+\ge should NEG 2.SG.ERG - eat
+\ps V      ADV AFF      - V
+
+\ft You shouldn't eat it.
+
+\id beamer229
+\ref
+\tx mata   maj alo            aytoq jun  mansantu
+\mb mata   maj a        - lo  aytoq jun  mansan - tu
+\ge should NEG 2.SG.ERG - eat down  a(n) apple  - DEM.that/those
+\ps V      ADV AFF      - V   ADV   DET  N      - AFF
+
+\ft You shouln't eat that apple.
+
+\id beamer230
+\ref
+\tx mata   x    alo            jun  mansan
+\mb mata   x    a        - lo  jun  mansan
+\ge should PERF 2.SG.ERG - eat a(n) apple
+\ps V      AFF  AFF      - V   DET  N
+
+\ft You should eat the apple.
+
+\id beamer231
+\ref
+\tx maj inlo
+\mb maj in   - lo
+\ge NEG 1.SG - eat
+\ps ADV AFF  - V
+
+\ft I do not want to eat it. / I will not eat it.
+
+\id beamer232
+\ref
+\tx maj alo
+\mb maj a        - lo
+\ge NEG 2.SG.ERG - eat
+\ps ADV AFF      - V
+
+\ft You do not want to eat it.
+
+\id beamer233
+\ref
+\tx oq  inlo
+\mb oq  in   - lo
+\ge IRR 1.SG - eat
+\ps AFF AFF  - V
+
+\ft I want to eat it.
